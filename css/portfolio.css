@@ -78,3 +78,35 @@ nav{
 .banner-pic img{
     height: 500px;
 }
+
+.about-me{
+    background-color: bisque;
+    text-align: center;
+    margin: 0 200px 0 200px;
+    padding: 50px;
+}
+.about-foorter{
+    
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.abuot-p{
+    padding: 0 180px 0 180px;
+}
+.skills{
+     display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.What-i{
+    text-align: center;
+    margin: 0 200px 0 200px;
+    padding: 50px;
+}
+
+.js{
+    text-align: left;
+    box-shadow: #474747;
+}
