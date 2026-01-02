@@ -95,9 +95,10 @@ nav{
     padding: 0 180px 0 180px;
 }
 .skills{
-     display: flex;
-    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
     margin-top: 50px;
+    margin: 0 -50px 0 -50px;
 }
 
 .What-i{
@@ -108,5 +109,14 @@ nav{
 
 .js{
     text-align: left;
-    box-shadow: #474747;
+    margin-left: 40px;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 3px;
+}
+.summery-info{
+    display: grid;
+    grid-template-columns: 50% 2fr;
+    margin: 0 200px 0 200px;
+    padding: 20px;
 }
